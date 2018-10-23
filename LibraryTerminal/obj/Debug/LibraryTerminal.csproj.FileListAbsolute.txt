@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\LibraryTerminal\LibraryTerminal\bin\Debug\LibraryTerminal.exe.config
+C:\Users\jstiles\source\repos\LibraryTerminal\LibraryTerminal\bin\Debug\LibraryTerminal.exe
+C:\Users\jstiles\source\repos\LibraryTerminal\LibraryTerminal\bin\Debug\LibraryTerminal.pdb
+C:\Users\jstiles\source\repos\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.exe
+C:\Users\jstiles\source\repos\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.pdb
